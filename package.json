@@ -1,0 +1,18 @@
+{
+  "name": "generate-csv",
+  "version": "1.0.0",
+  "description": "Handle dataend points",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "author": "fenil patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "csv-writer": "^1.6.0",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
