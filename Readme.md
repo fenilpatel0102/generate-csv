@@ -3,4 +3,4 @@
 3) Run the code using command { node src/app.js }
 4) Redirect to the url displayed in the cmd { http://localhost:3000 }
 5) On the browser, append the endpoint to the url /generate-csv
-( http://localhost:3000/generate-csv )
+6) Sample url : ( http://localhost:3000/generate-csv )
